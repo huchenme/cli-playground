@@ -1,0 +1,14 @@
+{
+  "name": "cli-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "cli-app": "index.js"
+  },
+  "author": "Hu Chen <chen@huchen.me> (http://huchen.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.14.1"
+  }
+}
