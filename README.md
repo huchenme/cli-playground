@@ -5,6 +5,7 @@
 * [cli-app](https://medium.freecodecamp.org/writing-command-line-applications-in-nodejs-2cf8327eee2)
 * [ginit](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/)
 * [contact-manager](https://scotch.io/tutorials/build-an-interactive-command-line-application-with-nodejs)
+* [bitbucket-snippet](https://developer.atlassian.com/blog/2015/11/scripting-with-node/)
 
 ## Tools
 
