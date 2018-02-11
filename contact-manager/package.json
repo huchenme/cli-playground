@@ -1,0 +1,14 @@
+{
+  "name": "contacto",
+  "description": "Contact management system",
+  "version": "1.0.0",
+  "preferGlobal": true,
+  "bin": "./contact.js",
+  "author": "Hu Chen <chen@huchen.me> (http://huchen.me/)",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.14.1",
+    "inquirer": "^5.1.0",
+    "mongoose": "~4.9.2"
+  }
+}
